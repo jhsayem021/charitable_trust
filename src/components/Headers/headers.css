@@ -1,0 +1,22 @@
+.header{
+    text-align: center;
+    padding: 20px;
+   
+   }
+   .logo{
+       height: 75px;
+   }
+   .header nav{
+       background-color: black;
+       line-height: 40px;
+       display:grid;
+       grid-template-columns: repeat(3,1fr);
+   }
+   
+   .header nav a{
+       text-decoration: none;
+       padding: 5px;
+       margin-left: 10px;
+       color: white;
+       
+   }
