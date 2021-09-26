@@ -16,10 +16,7 @@ const Management = () => {
 
     const handleAddToTeam=(member)=>{
         const newTeam=[...team,member];
-        setTeam(newTeam);
-        
-        setName(member.name);
-        
+        setTeam(newTeam);  
     }
 
     return (
@@ -34,7 +31,7 @@ const Management = () => {
             }
             </div>
             <div className="team">
-                <Team team={team} name={name} ></Team>
+                <Team team={team} ></Team>
             </div>
         </div>
     );

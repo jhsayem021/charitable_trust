@@ -3,11 +3,11 @@
     padding: 20px;
     background-color: seashell;
     position:sticky;
-    width: 100%;
+    
    }
 
    .header nav{
-       background-color: rgb(223, 170, 170);
+       background-color: rgb(209, 177, 177);
        line-height: 50px;
        display:grid;
        grid-template-columns: repeat(3,1fr);
@@ -16,19 +16,30 @@
    
    .header nav a{
        text-decoration: none;
-       padding: 5px;
+       padding: 5px 15px 5px 15px;
        margin-left: 10px;
        color: rgb(0, 0, 0);
+       
        
    }
    .header nav a:hover{
     text-decoration: none;
-    padding: 5px;
+    padding: 5px 15px 5px 15px;
     margin-left: 10px;
-    color: rgb(235, 219, 219);
-    background-color: grey;
+    color: rgb(41, 39, 39);
+    background-color: rgb(142, 184, 142);
     
 }
 .header h1{
     font-size: 46px;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading div img{
+    width: 150px;
+    height: 150px;
+    padding-right: 50px;
 }
