@@ -3,12 +3,14 @@ import './headers.css'
 const Headers = () => {
     return (
         <div className="header">
-            <h1> Make Govorning Body </h1>
+            <h1> SA Charitable Trust </h1>
+            <h3>Make an management team for yearly donation</h3>
+            <h2>Total Budget : $10 million</h2>
             <nav>
                 <div>
-                <a href="/shop">Shop</a>
-                <a href="/order">Order</a>
-                <a href="/inventory">Manage Inventory</a>
+                <a href="/home">Home</a>
+                <a href="/management">Management</a>
+                <a href="/about">About us</a>
                 </div>
             </nav>
         </div>
