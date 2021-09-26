@@ -5,7 +5,7 @@ live site link (https://sa-charitable-trust.netlify.app/).
 
 Introduction About Project:
 * This in an website demo of "Charitable Trust Organization"
-* in this website, here some independent People Biodata for manage Donation
+* in this website, here some People Biodata for manage Donation team
 
 
 How it Works :
