@@ -1,6 +1,6 @@
 # SA Charitable Trust Organization
 
-live site link (https://sa-charitable-trust.netlify.app/).
+live site link - https://sa-charitable-trust.netlify.app/
 
 
 Introduction About Project:
